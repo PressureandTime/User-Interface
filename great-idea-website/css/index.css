@@ -53,7 +53,7 @@ table {
 }
 
 html, body {
-    height: 100%;
+   
     font-family: 'Titillium Web', sans-serif;
 }
 
@@ -64,3 +64,81 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+nav a {
+	padding: 25px;
+	display: inline-block;
+	margin-left: 30px;
+}
+
+h1 {
+	display: inline-block;
+}
+
+header {
+	display:inline-block;
+		
+}
+
+.logo {
+	margin-left: 30px;
+}
+
+button {
+	display: block;
+	margin-left:150px;
+}
+
+header img {
+  margin-top:20px;
+  margin-left:250px;
+	
+}
+
+
+header h1 {
+	font-size: 70px;
+	margin-left: 70px;
+	margin-top:20px;
+}
+
+.div1 {
+	display: inline-block;
+	width: 100%;
+	position: relative;
+	padding: 20px;		
+}
+
+h3 {
+	display: inline-block;
+	position: absolute;
+}
+
+
+.div1 p {
+	display: inline-block;
+	width: 45%;
+	padding: 20px;
+}   
+
+
+.div2 {
+	display: inline-block;
+	width: 100%;
+	position: relative;
+}
+
+#p1, #p2, #p3 {
+	width: 25%;
+	display: inline-block;
+	padding: 20px;	
+	
+} 
+
+footer {
+	width: 50%;
+	padding: 20px;
+	margin: 20px;
+	
+}
+
